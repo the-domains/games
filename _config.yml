@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7144996818616794
+  lightness: 0.0017039134757824703
+  rhythmicContrast: 0.41266029631178025
+  saturation: 0.34973629406799
+cta: {}
+layout_spectrum: 0.3872356932554911
+name: games
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.5402645804826108
